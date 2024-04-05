@@ -14,7 +14,7 @@
 		<?php include_once 'inc/header.php'; ?>
 		<main class="main main-page">
 			<div class="container">
-				<h2>форма</h2>
+				<h2>ФОрма</h2>
 				<form action="" class="form">
 					<div class="form-item input _required">
 						<label for="" class="form-label">Name</label>
